@@ -53,6 +53,7 @@ html,body,#main{
     align-items: center;
     /* background-color: green; */
     font-size: 40px;
+    overflow: hidden;
 }
 .button{
     width: 400px;
